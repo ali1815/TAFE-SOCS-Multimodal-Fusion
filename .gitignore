@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+data/*.csv
+data/*.zip
+results/*.csv
+results/*.png
+results/*.pdf
+results/*.zip
+!data/README.md
+!results/README.md

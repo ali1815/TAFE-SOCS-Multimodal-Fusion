@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Spatially Robust Multimodal Agricultural Sensing Fusion for European Topsoil Organic Carbon Stock Prediction"
+message: "If you use this software, please cite the associated manuscript and the original data sources."
+type: software
+authors:
+  - family-names: "Nazar"
+    given-names: "Muhammad Ali"
+repository-code: "TO_BE_ADDED_AFTER_GITHUB_PUBLICATION"
